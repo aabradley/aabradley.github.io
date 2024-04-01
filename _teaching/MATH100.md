@@ -2,7 +2,7 @@
 title: "MATH 100"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/MATH100
 venue: "University of Arizona, Department of Mathematics"
 date: 2023-01-01
 location: "Tucson, Arizona"
