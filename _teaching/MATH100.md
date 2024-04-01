@@ -15,8 +15,4 @@ Info
 As the Graduate Assistant for MATH 100, I held office hours for Asynchronous versions of MATH 100. I also held meetings with students regarding their placement, grades, and conduct. I was a point of contact for undergraduate teaching assistants, working alongside course coordinators and Math Academic Coaches (MAC). 
 
 
-Heading 2
-======
 
-Heading 3
-======
