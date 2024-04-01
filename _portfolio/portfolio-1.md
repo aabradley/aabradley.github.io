@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Pride of Arizona"
+excerpt: "Alto Saxophone - Section Leader<br/><img src='/images/IMG_1228.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+During my time in college, I have been a member of the Pride of Arizona marching band, playing Alto Saxophone. I have been honored to be one of two Alto Sax Section Leaders for the past two years. This organization stands on Performance, Respect, Integrity, Discipline, and Excellence. Recently, we were awarded the 2024 Sulder Trophy, which is a bi-annual award given to one marching organization across the nation.
+
