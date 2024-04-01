@@ -4,7 +4,7 @@ collection: talks
 type: "Intern"
 permalink: /talks/bdinternship
 venue: "Brailsford & Dunlavey"
-date: 2023-2024
+date: 2023-01-15
 location: "Virtual/Remote"
 ---
 
