@@ -1,17 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "MATH 100"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Arizona, Department of Mathematics"
+date: 2023-01-01
+location: "Tucson, Arizona"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Graduate Assistant for MATH 100
 
-Heading 1
+Info
 ======
+As the Graduate Assistant for MATH 100, I held office hours for Asynchronous versions of MATH 100. I also held meetings with students regarding their placement, grades, and conduct. I was a point of contact for undergraduate teaching assistants, working alongside course coordinators and Math Academic Coaches (MAC). 
+
 
 Heading 2
 ======
