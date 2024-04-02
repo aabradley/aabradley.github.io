@@ -11,48 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Statistics and Data Sciences, University of Arizona, 2024 (current)
+  * Accelerated Program
+  * Graduate Interdisciplinary Program
+* B.S. in Statistics and Data Sciences, University of Arizona, 2023
+  * Minors in Mathematics and Music
+  * Summa Cum Laude
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022-Spring 2023: Undergraduate Teaching Assistant
+  * University of Arizona Mathematics Department
+  * Duties included: One-on-one instruction, working with other assistants
+  * Tutored students by analyzing misconceptions through open ended questions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2023 - May 2024: Graduate Assistant
+  * University of Arizona Math Department
+  * Leading classes through lectures, class activities, and Office Hours
+  * Having one-on-one conversations with students regarding their class progress
+ 
+* Spring 2023-Current: Intern at Brailsford & Dunlavey
+  * Supporting the University of Arizona Sustainability and Climate Action Plan
+  * Using collected data to create appropriate visualizations for public understanding
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Computing/Visualization Proficiency
+  * RStudio (R, Python)
+  * Tableau
+  * Microsoft Office
+  * SQL
+* Verbal Communication
+* Written Communication
+* Compartmentalization
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -61,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Section leader of the Pride of Arizona Alto Saxophones, 2022-2024
